@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseRegistry", "NurseRegistry\NurseRegistry.csproj", "{07E1179B-4C30-43C5-947B-6C4119D6105D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.nurseregistry_functional.test", "app.nurseregistry_functional.test\app.nurseregistry_functional.test.csproj", "{62DA5066-1F79-45BA-A450-C8647C5A0FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E1179B-4C30-43C5-947B-6C4119D6105D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E1179B-4C30-43C5-947B-6C4119D6105D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E1179B-4C30-43C5-947B-6C4119D6105D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E1179B-4C30-43C5-947B-6C4119D6105D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DA5066-1F79-45BA-A450-C8647C5A0FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DA5066-1F79-45BA-A450-C8647C5A0FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DA5066-1F79-45BA-A450-C8647C5A0FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DA5066-1F79-45BA-A450-C8647C5A0FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC51BC8-373A-4C83-A83C-E6468086E440}
+	EndGlobalSection
+EndGlobal
